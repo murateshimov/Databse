@@ -1,2 +1,2 @@
-# Databse
+# Database
 Login Page + Database
